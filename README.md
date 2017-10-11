@@ -1,7 +1,7 @@
-# qmws-class
+# Quiet Music, Weak Sounds Class
 
-# Acoustic Ecology
+## Acoustic Ecology
 
-# Sonic Experience
+## Sonic Experience
 
-# Acoustemology
+## Acoustemology
